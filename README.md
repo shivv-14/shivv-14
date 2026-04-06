@@ -10,7 +10,7 @@
 
 ---
 
-# 👋 Hi, I'm Shiva Ganesh
+# 👋 Hi, I'm Brungi Shiva Ganesh
 
 🎓 B.Tech Data Science Student  
 💻 Full Stack Developer (PHP, MySQL, JavaScript)  

@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=200&section=header&text=Shiva%20Ganesh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=200&section=header&text=Brungi%20Shiva%20Ganesh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 🔥 Typing Animation -->
